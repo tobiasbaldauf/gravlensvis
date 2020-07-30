@@ -1,2 +1,2 @@
 # gravlensvis
-Gravitational Lensing Visualisation
+Gravitational Lensing Visualisation using OpenCV
